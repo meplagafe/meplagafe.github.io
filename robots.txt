@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meplagafe.github.io/sitemap
+Sitemap: https://meplagafe.github.io/app/sitemap
+Sitemap: https://meplagafe.github.io/assets/sitemap
+Sitemap: https://meplagafe.github.io/css/sitemap
+Sitemap: https://meplagafe.github.io/includes/sitemap
+Sitemap: https://meplagafe.github.io/item/sitemap
+Sitemap: https://meplagafe.github.io/src/sitemap
